@@ -19,9 +19,9 @@ SignupFormProject
 git clone https://github.com/yourusername/signup-form-java.git
 cd signup-form-java
 ```
-Open in your IDE: Import the project into your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA, or NetBeans).
+***Open in your IDE:*** Import the project into your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA, or NetBeans).
 
-Run the Application: Run the Main.java file to start the application.
+***Run the Application:*** Run the Main.java file to start the application.
 ## Usage
 ***Sign Up:*** Enter user details (such as name, email, password) to create a new account.
 
