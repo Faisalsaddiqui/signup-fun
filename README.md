@@ -26,8 +26,8 @@ Run the Application: Run the Main.java file to start the application.
 Sign Up: Enter user details (such as name, email, password) to create a new account.
 
 Login and Task Management: After signing up, log in to access the task management interface.
-Future Enhancements
-Database Integration: Connect to a database for persistent data storage.
+
+Future Enhancements Database Integration: Connect to a database for persistent data storage.
 
 Enhanced UI: Improve the form interface with JavaFX or Swing.
 
