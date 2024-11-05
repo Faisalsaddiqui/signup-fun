@@ -35,6 +35,6 @@ cd signup-form-java
 
 Contributing Contributions are welcome! If you’d like to contribute, please fork the repository and create a pull request.
 
-License This project is licensed under the MIT License.
+License This project is licensed under the <ins> MIT License</ins>.
 
 This README provides an overview, setup instructions, and basic usage for your Java Signup Form project. Let me know if you'd like additional customization or sections!
