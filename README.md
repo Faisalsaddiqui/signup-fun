@@ -26,7 +26,7 @@ cd signup-form-java
 
 **Run the Application:** Run the Main.java file to start the application.
 ## Usage
-**• Sign Up:** Enter user details (such as name, email, password) to create a new account.
+- **Sign Up:** Enter user details (such as name, email, password) to create a new account.
 
 **• Login and Task Management:** After signing up, log in to access the task management interface.
 
