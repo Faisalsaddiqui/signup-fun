@@ -15,10 +15,13 @@ SignupFormProject
 │   ├── SignupForm.java     # Main class for the signup form
 │   └── User.java           # Class to handle user details
 └── README.md               # Project documentation
-
+```
+**Clone the respository**
+```
 git clone https://github.com/yourusername/signup-form-java.git
 cd signup-form-java
 ```
+
 **Open in your IDE:** Import the project into your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA, or NetBeans).
 
 **Run the Application:** Run the Main.java file to start the application.
