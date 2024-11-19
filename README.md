@@ -1,4 +1,4 @@
-# Signup Form in Java
+# Signup Form in Java 📝🖥️☕
 This project is a simple signup form built using Java. The form allows users to sign up and perform basic tasks after registration. It's a minimal Java application intended for learning purposes or as a foundation for building more complex applications.
 ## Features
 - **User Registration**: Users can sign up with basic details.
