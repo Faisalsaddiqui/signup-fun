@@ -19,6 +19,9 @@ SignupFormProject
 **Clone the respository**
 ```
 git clone https://github.com/yourusername/signup-form-java.git
+```
+Navigate to the directory
+```
 cd signup-form-java
 ```
 
