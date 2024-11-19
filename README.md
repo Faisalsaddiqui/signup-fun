@@ -28,13 +28,13 @@ cd signup-form-java
 ## Usage
 - **Sign Up:** Enter user details (such as name, email, password) to create a new account.
 
-**• Login and Task Management:** After signing up, log in to access the task management interface.
+- **Login and Task Management:** After signing up, log in to access the task management interface.
 
-**• Future Enhancements Database Integration:** Connect to a database for persistent data storage.
+- **Future Enhancements Database Integration:** Connect to a database for persistent data storage.
 
-**• Enhanced UI:** Improve the form interface with JavaFX or Swing.
+- **Enhanced UI:** Improve the form interface with JavaFX or Swing.
 
-**• Additional Features:** Add more tasks and functionalities for a better user experience.
+- **Additional Features:** Add more tasks and functionalities for a better user experience.
 
 ## Contributing
 Contributions are welcome! If you’d like to contribute, please fork the repository and create a pull request.
