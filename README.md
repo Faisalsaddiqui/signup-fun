@@ -16,7 +16,8 @@ SignupFormProject
 │   └── User.java           # Class to handle user details
 └── README.md               # Project documentation
 ```
-**Clone the respository**
+## How to run
+Clone the respository
 ```
 git clone https://github.com/yourusername/signup-form-java.git
 ```
